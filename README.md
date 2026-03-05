@@ -21,13 +21,14 @@
 | Project | Description | Tech |
 
 | [Vendly](https://github.com/Tejasg011) | Local vendor e-commerce platform with admin panel | PHP · MySQL · JS |
+
 |[ClipShare](https://github.com/Tejasg011) | Zero-login file & text sharing with QR codes | React · FastAPI · MongoDB |
 
 
 ---
 
 ## 📜 Certifications
-- ☁️ Oracle OCI Foundation Certified
+- ☁️ ML Intern at TechnoHacks Solutions Pvt. Ltd.
 - 🤖 Green Skills & AI — Edunet Foundation, AICTE 
 - 💼 InsPIRE Employability Program — Infosys Foundation
 
