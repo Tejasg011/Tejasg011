@@ -43,6 +43,6 @@
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/tejas-gangurde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]((https://www.linkedin.com/in/tejas-gangurde-b7131132b/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Tejasg011)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:tejasgangurde001@gmail.com)
